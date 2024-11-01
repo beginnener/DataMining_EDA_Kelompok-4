@@ -1,0 +1,211 @@
+tahun_data,kabkota,lokasi,jml
+2022,Kab. Cilacap,Rumah Tangga,5
+2022,Kab. Cilacap,Tempat Kerja,0
+2022,Kab. Cilacap,Lainnya,3
+2022,Kab. Cilacap,Sekolah,0
+2022,Kab. Cilacap,Fasilitas Umum,0
+2022,Kab. Cilacap,Lembaga Pendidikan Kilat,0
+2022,Kab. Banyumas,Rumah Tangga,18
+2022,Kab. Banyumas,Tempat Kerja,2
+2022,Kab. Banyumas,Lainnya,11
+2022,Kab. Banyumas,Sekolah,1
+2022,Kab. Banyumas,Fasilitas Umum,4
+2022,Kab. Banyumas,Lembaga Pendidikan Kilat,0
+2022,Kab. Purbalingga,Rumah Tangga,10
+2022,Kab. Purbalingga,Tempat Kerja,0
+2022,Kab. Purbalingga,Lainnya,0
+2022,Kab. Purbalingga,Sekolah,1
+2022,Kab. Purbalingga,Fasilitas Umum,3
+2022,Kab. Purbalingga,Lembaga Pendidikan Kilat,0
+2022,Kab. Banjarnegara,Rumah Tangga,14
+2022,Kab. Banjarnegara,Tempat Kerja,0
+2022,Kab. Banjarnegara,Lainnya,2
+2022,Kab. Banjarnegara,Sekolah,0
+2022,Kab. Banjarnegara,Fasilitas Umum,0
+2022,Kab. Banjarnegara,Lembaga Pendidikan Kilat,0
+2022,Kab. Kebumen,Rumah Tangga,36
+2022,Kab. Kebumen,Tempat Kerja,0
+2022,Kab. Kebumen,Lainnya,1
+2022,Kab. Kebumen,Sekolah,2
+2022,Kab. Kebumen,Fasilitas Umum,5
+2022,Kab. Kebumen,Lembaga Pendidikan Kilat,0
+2022,Kab. Purworejo,Rumah Tangga,22
+2022,Kab. Purworejo,Tempat Kerja,0
+2022,Kab. Purworejo,Lainnya,0
+2022,Kab. Purworejo,Sekolah,0
+2022,Kab. Purworejo,Fasilitas Umum,2
+2022,Kab. Purworejo,Lembaga Pendidikan Kilat,0
+2022,Kab. Wonosobo,Rumah Tangga,41
+2022,Kab. Wonosobo,Tempat Kerja,0
+2022,Kab. Wonosobo,Lainnya,15
+2022,Kab. Wonosobo,Sekolah,0
+2022,Kab. Wonosobo,Fasilitas Umum,0
+2022,Kab. Wonosobo,Lembaga Pendidikan Kilat,0
+2022,Kab. Magelang,Rumah Tangga,24
+2022,Kab. Magelang,Tempat Kerja,0
+2022,Kab. Magelang,Lainnya,2
+2022,Kab. Magelang,Sekolah,1
+2022,Kab. Magelang,Fasilitas Umum,0
+2022,Kab. Magelang,Lembaga Pendidikan Kilat,0
+2022,Kab. Boyolali,Rumah Tangga,23
+2022,Kab. Boyolali,Tempat Kerja,0
+2022,Kab. Boyolali,Lainnya,1
+2022,Kab. Boyolali,Sekolah,0
+2022,Kab. Boyolali,Fasilitas Umum,1
+2022,Kab. Boyolali,Lembaga Pendidikan Kilat,0
+2022,Kab. Klaten,Rumah Tangga,21
+2022,Kab. Klaten,Tempat Kerja,0
+2022,Kab. Klaten,Lainnya,2
+2022,Kab. Klaten,Sekolah,0
+2022,Kab. Klaten,Fasilitas Umum,1
+2022,Kab. Klaten,Lembaga Pendidikan Kilat,0
+2022,Kab. Sukoharjo,Rumah Tangga,27
+2022,Kab. Sukoharjo,Tempat Kerja,0
+2022,Kab. Sukoharjo,Lainnya,4
+2022,Kab. Sukoharjo,Sekolah,0
+2022,Kab. Sukoharjo,Fasilitas Umum,1
+2022,Kab. Sukoharjo,Lembaga Pendidikan Kilat,0
+2022,Kab. Wonogiri,Rumah Tangga,6
+2022,Kab. Wonogiri,Tempat Kerja,0
+2022,Kab. Wonogiri,Lainnya,0
+2022,Kab. Wonogiri,Sekolah,0
+2022,Kab. Wonogiri,Fasilitas Umum,0
+2022,Kab. Wonogiri,Lembaga Pendidikan Kilat,0
+2022,Kab. Karanganyar,Rumah Tangga,13
+2022,Kab. Karanganyar,Tempat Kerja,0
+2022,Kab. Karanganyar,Lainnya,3
+2022,Kab. Karanganyar,Sekolah,0
+2022,Kab. Karanganyar,Fasilitas Umum,2
+2022,Kab. Karanganyar,Lembaga Pendidikan Kilat,0
+2022,Kab. Sragen,Rumah Tangga,5
+2022,Kab. Sragen,Tempat Kerja,0
+2022,Kab. Sragen,Lainnya,0
+2022,Kab. Sragen,Sekolah,0
+2022,Kab. Sragen,Fasilitas Umum,0
+2022,Kab. Sragen,Lembaga Pendidikan Kilat,0
+2022,Kab. Grobogan,Rumah Tangga,15
+2022,Kab. Grobogan,Tempat Kerja,0
+2022,Kab. Grobogan,Lainnya,1
+2022,Kab. Grobogan,Sekolah,0
+2022,Kab. Grobogan,Fasilitas Umum,2
+2022,Kab. Grobogan,Lembaga Pendidikan Kilat,0
+2022,Kab. Blora,Rumah Tangga,3
+2022,Kab. Blora,Tempat Kerja,0
+2022,Kab. Blora,Lainnya,0
+2022,Kab. Blora,Sekolah,0
+2022,Kab. Blora,Fasilitas Umum,1
+2022,Kab. Blora,Lembaga Pendidikan Kilat,0
+2022,Kab. Rembang,Rumah Tangga,5
+2022,Kab. Rembang,Tempat Kerja,0
+2022,Kab. Rembang,Lainnya,1
+2022,Kab. Rembang,Sekolah,1
+2022,Kab. Rembang,Fasilitas Umum,0
+2022,Kab. Rembang,Lembaga Pendidikan Kilat,0
+2022,Kab. Pati,Rumah Tangga,7
+2022,Kab. Pati,Tempat Kerja,0
+2022,Kab. Pati,Lainnya,12
+2022,Kab. Pati,Sekolah,0
+2022,Kab. Pati,Fasilitas Umum,0
+2022,Kab. Pati,Lembaga Pendidikan Kilat,0
+2022,Kab. Kudus,Rumah Tangga,5
+2022,Kab. Kudus,Tempat Kerja,0
+2022,Kab. Kudus,Lainnya,0
+2022,Kab. Kudus,Sekolah,0
+2022,Kab. Kudus,Fasilitas Umum,1
+2022,Kab. Kudus,Lembaga Pendidikan Kilat,0
+2022,Kab. Jepara,Rumah Tangga,12
+2022,Kab. Jepara,Tempat Kerja,1
+2022,Kab. Jepara,Lainnya,0
+2022,Kab. Jepara,Sekolah,0
+2022,Kab. Jepara,Fasilitas Umum,1
+2022,Kab. Jepara,Lembaga Pendidikan Kilat,0
+2022,Kab. Demak,Rumah Tangga,27
+2022,Kab. Demak,Tempat Kerja,0
+2022,Kab. Demak,Lainnya,0
+2022,Kab. Demak,Sekolah,0
+2022,Kab. Demak,Fasilitas Umum,1
+2022,Kab. Demak,Lembaga Pendidikan Kilat,0
+2022,Kab. Semarang,Rumah Tangga,46
+2022,Kab. Semarang,Tempat Kerja,2
+2022,Kab. Semarang,Lainnya,6
+2022,Kab. Semarang,Sekolah,0
+2022,Kab. Semarang,Fasilitas Umum,3
+2022,Kab. Semarang,Lembaga Pendidikan Kilat,0
+2022,Kab. Temanggung,Rumah Tangga,9
+2022,Kab. Temanggung,Tempat Kerja,0
+2022,Kab. Temanggung,Lainnya,0
+2022,Kab. Temanggung,Sekolah,0
+2022,Kab. Temanggung,Fasilitas Umum,0
+2022,Kab. Temanggung,Lembaga Pendidikan Kilat,0
+2022,Kab. Kendal,Rumah Tangga,26
+2022,Kab. Kendal,Tempat Kerja,0
+2022,Kab. Kendal,Lainnya,1
+2022,Kab. Kendal,Sekolah,0
+2022,Kab. Kendal,Fasilitas Umum,1
+2022,Kab. Kendal,Lembaga Pendidikan Kilat,0
+2022,Kab. Batang,Rumah Tangga,9
+2022,Kab. Batang,Tempat Kerja,1
+2022,Kab. Batang,Lainnya,1
+2022,Kab. Batang,Sekolah,0
+2022,Kab. Batang,Fasilitas Umum,0
+2022,Kab. Batang,Lembaga Pendidikan Kilat,0
+2022,Kab. Pekalongan,Rumah Tangga,33
+2022,Kab. Pekalongan,Tempat Kerja,0
+2022,Kab. Pekalongan,Lainnya,2
+2022,Kab. Pekalongan,Sekolah,1
+2022,Kab. Pekalongan,Fasilitas Umum,0
+2022,Kab. Pekalongan,Lembaga Pendidikan Kilat,0
+2022,Kab. Pemalang,Rumah Tangga,31
+2022,Kab. Pemalang,Tempat Kerja,1
+2022,Kab. Pemalang,Lainnya,0
+2022,Kab. Pemalang,Sekolah,0
+2022,Kab. Pemalang,Fasilitas Umum,4
+2022,Kab. Pemalang,Lembaga Pendidikan Kilat,0
+2022,Kab. Tegal,Rumah Tangga,30
+2022,Kab. Tegal,Tempat Kerja,0
+2022,Kab. Tegal,Lainnya,0
+2022,Kab. Tegal,Sekolah,0
+2022,Kab. Tegal,Fasilitas Umum,1
+2022,Kab. Tegal,Lembaga Pendidikan Kilat,0
+2022,Kab. Brebes,Rumah Tangga,20
+2022,Kab. Brebes,Tempat Kerja,0
+2022,Kab. Brebes,Lainnya,4
+2022,Kab. Brebes,Sekolah,0
+2022,Kab. Brebes,Fasilitas Umum,3
+2022,Kab. Brebes,Lembaga Pendidikan Kilat,0
+2022,Kota Magelang,Rumah Tangga,4
+2022,Kota Magelang,Tempat Kerja,0
+2022,Kota Magelang,Lainnya,1
+2022,Kota Magelang,Sekolah,0
+2022,Kota Magelang,Fasilitas Umum,2
+2022,Kota Magelang,Lembaga Pendidikan Kilat,0
+2022,Kota Surakarta,Rumah Tangga,13
+2022,Kota Surakarta,Tempat Kerja,0
+2022,Kota Surakarta,Lainnya,1
+2022,Kota Surakarta,Sekolah,0
+2022,Kota Surakarta,Fasilitas Umum,4
+2022,Kota Surakarta,Lembaga Pendidikan Kilat,0
+2022,Kota Salatiga,Rumah Tangga,15
+2022,Kota Salatiga,Tempat Kerja,1
+2022,Kota Salatiga,Lainnya,2
+2022,Kota Salatiga,Sekolah,1
+2022,Kota Salatiga,Fasilitas Umum,1
+2022,Kota Salatiga,Lembaga Pendidikan Kilat,0
+2022,Kota Semarang,Rumah Tangga,142
+2022,Kota Semarang,Tempat Kerja,2
+2022,Kota Semarang,Lainnya,22
+2022,Kota Semarang,Sekolah,2
+2022,Kota Semarang,Fasilitas Umum,9
+2022,Kota Semarang,Lembaga Pendidikan Kilat,0
+2022,Kota Pekalongan,Rumah Tangga,12
+2022,Kota Pekalongan,Tempat Kerja,0
+2022,Kota Pekalongan,Lainnya,0
+2022,Kota Pekalongan,Sekolah,0
+2022,Kota Pekalongan,Fasilitas Umum,0
+2022,Kota Pekalongan,Lembaga Pendidikan Kilat,0
+2022,Kota Tegal,Rumah Tangga,6
+2022,Kota Tegal,Tempat Kerja,1
+2022,Kota Tegal,Lainnya,2
+2022,Kota Tegal,Sekolah,0
+2022,Kota Tegal,Fasilitas Umum,0
+2022,Kota Tegal,Lembaga Pendidikan Kilat,0
